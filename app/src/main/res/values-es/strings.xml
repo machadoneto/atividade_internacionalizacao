@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Actividad_01</string>
+    <string name="botao">Botón</string>
+    <string name="ola_mundo">Hola Mundo !</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activity_01</string>
+    <string name="botao">Button</string>
+    <string name="ola_mundo">Hello World !</string>
+</resources>
